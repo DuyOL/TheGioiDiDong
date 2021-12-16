@@ -1,0 +1,645 @@
+*{  /*tất cả thẻ của html*/
+    padding:0;
+    margin:0;
+    font-family:"Roboto",sans-serif;
+}
+.container
+{
+    width:1359px;
+    margin: 0 auto;
+}
+header
+{
+  width:1349px;
+  height:129px;
+  background:rgb(8, 7, 13);
+}
+header img
+{
+ padding-left:400px;
+}
+nav
+{
+    width:1349px;
+    height:45px;
+    background:#CDA801;
+}
+nav .menu ul 
+{
+    list-style: none;
+    
+}
+nav .menu ul li
+{
+  float: left;
+  line-height:40px;
+  padding: 0 15px;
+  padding-left:68px;
+}
+nav .menu ul li a
+{
+    color: #000000;
+    font-size: 19px;
+    text-decoration: none;
+}
+nav .search
+{
+    line-height: 35px;
+    float:right;
+    margin-right:25px;
+    margin-top: -40px;
+}
+article div .new-list .new-item img
+{
+    text-align: center;
+}
+footer
+{   width:1349px;
+    background: #CDA801;
+    font-size:20px;
+    text-align: center;
+}
+#slide a img 
+{
+    position:relative;
+    top:30px;
+    left:85px;
+}
+#hot a  img
+{
+    float: right;
+    width: 170px;
+    top:30px;
+    margin-top:-290px;
+    margin-right:  220px;
+}
+#hot1 a img
+{
+    float: right;
+    width: 170px;
+    top:30px;
+    margin-right:220px;
+    margin-top:-100px;
+}
+#hot2 a img
+{
+    position:relative;
+    left: -40px;
+    float: right;
+    width: 170px;
+    margin-right:-400px;
+    margin-top:-290px;
+}
+#hot3 a img
+{
+    position:relative;
+    left: -40px;
+    float: right;
+    width: 170px;
+    margin-right:-400px;
+    margin-top:-100px;
+}
+#hot4 a img
+{
+    position:fixed;
+    /* position:relative; */
+    width: 110px;
+    left: 1230px;
+    margin-top:-180px;
+}
+#hot5 a img
+{
+    margin-top:40px;
+}
+#hot6 h1
+{
+    position:relative;
+    left: 400px;
+    margin-top:25px;
+    color: red;
+    font-size: 30px;
+    text-decoration: none;
+}
+#hot8 a img
+{
+    position:fixed;
+    width: 100px;  
+    height: 100px;
+    left:1230px;
+    top:250px;
+}
+/* article {
+    width:1300px;
+    height:200px;
+    position:relative;
+    background-color: #fed100;
+    float: left;
+    margin-left:30px;
+} */
+article div #al1 img
+{
+    float: right;
+    /* width: 254px; */
+    height: 250px;
+    top:30px;
+    margin-right:1000px;
+    margin-top:10px;
+}
+article div #al2 img
+{
+    float: right;
+    /* width: 254px; */
+    height:250px;
+    top:40px;
+    margin-right:100px;
+    margin-top:-250px;
+}
+article div #al3 img
+{
+    float: right;
+    /* width: 254px; */
+    height:250px;
+    top:40px;
+    margin-right:400px;
+    margin-top:-250px;
+}
+article div #al4 img
+{
+    float: right;
+    /* width: 254px; */
+    height:250px;
+    top:40px;
+    margin-right:700px;
+    margin-top:-250px;
+}
+article div #icon 
+{
+   font-size: 20px;
+   margin-top:20px;
+   margin-left: 200px;
+   text-decoration: underline;
+   color: red;
+   background-color:#E1E6E6;
+   display: block;
+   text-decoration: none;
+}
+article div #alo5 img
+{
+    height:250px;
+    margin-top:100px;
+    margin-left: 100px;
+}
+article div #alo6 img
+{
+    position:relative;
+    height:250px;
+    margin-top:50px;
+    margin-left:370px;
+    left: 30px;
+    top:-300px;
+}
+article div #alo7 img
+{
+    position:relative;
+    height:250px;
+    margin-top:50px;
+    margin-left:700px;
+    left: 10px;
+    top:-600px;
+}
+article div #alo8 img
+{
+    position:relative;
+    height:250px;
+    margin-top:50px;
+    margin-left: 400px;
+    left: 620px;
+    top:-907px;
+}
+a
+{
+    text-decoration: none;
+}
+div #Khon {
+    position:relative;
+    font-size: 20px;
+    margin-left:130px;
+    top:-1245px;
+    line-height:30px;
+}div #Khon2 {
+    position:relative;
+    font-size: 20px;
+    margin-left:430px;
+    top:-1309px;
+}
+div #Khon3 {
+    position:relative;
+    font-size: 20px;
+    margin-left:739px;
+    top: -1375px;
+}
+div #Khon4 {
+    position:relative;
+    font-size: 20px;
+    margin-left:1040px;
+    top:-1440px;
+}div #Khon5 {
+    position:relative;
+    font-size: 20px;
+    margin-left:122px;
+    top:-1150px;
+}
+div #Khon6 {
+    position:relative;
+    font-size: 20px;
+    margin-left:426px;
+    top:-1215px;
+}
+div #Khon7 {
+    position:relative;
+    font-size: 20px;
+    margin-left:739px;
+    top:-1279px;
+}
+div #Khon8 {
+    position:relative;
+    font-size: 20px;
+    margin-left:1039px;
+    top:-1343px;
+}
+div #Khon9 {
+    position:relative;
+    font-size: 20px;
+    margin-left:140px;
+    top: -970px;
+}
+div #Khon10 {
+    position:relative;
+    font-size: 20px;
+    margin-left:570px;
+    top: -1035px;
+}
+div #Khon11 {
+    position:relative;
+    font-size: 20px;
+    margin-left:1030px;
+    top: -1100px;
+}
+div #Khon12 {
+    position:relative;
+    font-size: 20px;
+    margin-left:140px;
+    top: -820px;
+}
+div #Khon13 {
+    position:relative;
+    font-size: 20px;
+    margin-left:569px;
+    top: -885px;
+}
+div #Khon14 {
+    position:relative;
+    font-size: 20px;
+    margin-left:1031px;
+    top: -948px;
+}
+div #Khon15 {
+    position:relative;
+    font-size: 20px;
+    margin-left:180px;
+    top: -458px;
+}
+div #Khon16 {
+    position:relative;
+    font-size: 20px;
+    margin-left:550px;
+    top: -523px;
+}
+div #Khon17 {
+    position:relative;
+    font-size: 20px;
+    margin-left:980px;
+    top: -587px;
+}
+h1{
+    position:relative;
+    font-size: 23px;
+    margin-left:130px;
+    line-height:50px
+}
+h2
+{
+    position:relative;
+    margin-left:122px;
+    top:-1300px;    
+}
+h3{
+    position:relative;
+    float: left;
+    left: 123px;
+    margin-top:-900px;
+    font-size: 25px;
+}
+div #Ngu img{
+    position:relative;
+    width: 300px;
+    left:100px;
+    float: left;
+    margin-right:1000px;
+    margin-top:-1250px;
+}
+div #Ngu2 img{
+    position:relative;
+    width: 300px;
+    right:-480px;
+    float: right;
+    margin-right:1000px;
+    margin-top:-1250px;
+}
+div #Ngu3 img{
+    position:relative;
+    width: 300px;
+    right:-910px;
+    float: right;
+    margin-right:1000px;
+    margin-top:-1250px;
+}
+article div #Ngu4 img{
+    position:relative;
+    width: 300px;
+    float: right;
+    right: 960px;
+    margin-top:-1140px;
+}
+article div #Ngu5 img{
+    position:relative;
+    width: 300px;
+    float: right;
+    right: 500px;
+    margin-top:-1144px;
+}
+article div #Ngu6 img{
+    position:relative;
+    width: 300px;
+    float: right;
+    right:79px;
+    margin-top:-1213px;
+}
+article div #Ngu7 img{
+    position:relative;
+    width: 300px;
+    float: left;
+    right:-130px;
+    margin-top:-860px;
+}
+article div #Ngu8 img{
+    position:relative;
+    width: 300px;
+    float: left;
+    right:-500px;
+    margin-top:-860px;
+}
+article div #Ngu9 img{
+    position:relative;
+    width: 300px;
+    float: left;
+    right:-930px;
+    margin-top:-860px;
+}
+div #Hay a p
+{
+    position:relative;
+    float: left;
+    right: -120px;
+    margin-top:-1000px;
+}
+div #Hay2  a p
+{
+    position:relative;
+    float: left;
+    right: -555px;
+    margin-top:-1000px;
+}
+div #Hay3  a p
+{
+    position:relative;
+    float: left;
+    right: -980px;
+    margin-top:-1000px;
+}
+div #Hay4  a p
+{
+    position:relative;
+    float: left;
+    right: -110px;
+    margin-top:-920px;
+}
+div #Hay5 a p
+{
+    position:relative;
+    float: left;
+    right: -580px;
+    margin-top:-920px;
+}
+div #Hay6 a p
+{
+    position:relative;
+    float: left;
+    right: -988px;
+    margin-top:-984px;
+}
+div #Hay7 a p
+{
+    position:relative;
+    float: left;
+    right: -190px;
+    margin-top:-500px;
+}
+div #Hay8 a p
+{
+    position:relative;
+    float: left;
+    right: -540px;
+    margin-top:-500px;
+}
+div #Hay9 a p
+{
+    position:relative;
+    float: left;
+    right: -900px;
+    margin-top:-500px;
+}
+div #Hay10 a p{
+  font-size:18px;
+  float: left;
+  margin-top:-500px;
+  margin-left:120px;
+  color: #000;
+}
+div #Hay11 a p{
+    font-size:18px;
+    float: left;
+    margin-top:-450px;
+    margin-left:120px ;
+    color: #000;
+  }
+  div #Hay12 a p{
+    font-size:18px;
+    float: left;
+    margin-top:-400px;
+    margin-left:120px ;
+    color: #000;
+  }
+  div #Hay13 a p{
+    font-size:18px;
+    float: left;
+    margin-top:-350px;
+    margin-left:120px ;
+    color: #000;
+  }
+  div #Hay14 a p{
+    font-size:18px;
+    float: left;
+    margin-top:-500px;
+    margin-left:500px ;
+    color: #000;
+  }
+  div #Hay15 a p{
+    font-size:18px;
+    float: left;
+    margin-top:-450px;
+    margin-left:500px ;
+    color: #000;
+  }
+  div #Hay16 a p{
+    font-size:18px;
+    float: left;
+    margin-top:-400px;
+    margin-left:500px ;
+    color: #000;
+  }
+  div #Hay17 a p{
+    font-size:18px;
+    float: left;
+    margin-top:-350px;
+    margin-left:500px ;
+    color: #000;
+  }
+  div #Hay18 a p{
+    font-size:18px;
+    float: left;
+    margin-top:-500px;
+    margin-left:800px ;
+    color: #000;
+  }
+  div #Hay19 a p{
+    font-size:18px;
+    float: left;
+    margin-top:-450px;
+    margin-left:800px ;
+    color: #000;
+  }
+  div #Hay20 a p{
+    font-size:18px;
+    float: left;
+    margin-top:-400px;
+    margin-left:800px ;
+    color: #000;
+  }
+  div #Hay21 a p{
+    font-size:18px;
+    float: left;
+    margin-top:-350px;
+    margin-left:800px ;
+    color: #000;
+  }
+  div #Hay22 a p{
+    font-size:18px;
+    float: left;
+    margin-top:-450px;
+    margin-left:890px ;
+    color: blue;
+  }
+  div #Hay23 a p{
+    font-size:18px;
+    float: left;
+    margin-top:-400px;
+    margin-left:890px ;
+    color: blue;
+  }
+  div #Hay24 a p{
+    font-size:18px;
+    float: left;
+    margin-top:-350px;
+    margin-left:890px ;
+    color: blue;
+  }
+  div #Hay25 a p{
+    font-size:18px;
+    float: left;
+    margin-top:-450px;
+    margin-left:980px ;
+    color:#000;
+  }
+  div #Hay26 a p{
+    font-size:18px;
+    float: left;
+    margin-top:-400px;
+    margin-left:980px ;
+    color:#000;
+  }
+  div #Hay27 a p{
+    font-size:18px;
+    float: left;
+    margin-top:-350px;
+    margin-left:980px ;
+    color:#000;
+  }
+  div #Hay28 a img{
+    font-size:18px;
+    float: left;
+    margin-top:-2485px;
+    margin-left:20px ;
+    color:#000;
+  }
+  div #Hay29 a img{
+    font-size:18px;
+    float: left;
+    margin-top:-1800px;
+    margin-left:20px ;
+    color:#000;
+  }
+  div #Hay30 a img{
+    float: left;
+    margin-top:-135px;
+    margin-left:20px ;
+    height: 132px;
+    width: 500px;
+  }
+  div #Hay31 a img{
+    float: left;
+    margin-top:-280px;
+    margin-left:404px;
+    height: 132px;
+    width: 500px;
+  }
+  div #Hay32 a img{
+    float: left;
+    margin-top:-135px;
+    margin-left:850px ;
+    height: 132px;
+    width: 500px;
+  }
+  h4{
+    font-size:20px;
+    float: left;
+    margin-top:-300px;
+    margin-left:430px;
+    color:purple;
+  }
+footer{
+    font-size: 20px;
+}
+div .Sao1 a p{
+  font-size:100px;
+}
